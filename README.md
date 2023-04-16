@@ -1,10 +1,12 @@
-###### My Netflix Clone
+### My Netflix Clone
 
 Netflix clone with Netflix like UI and functionalities built using React.js and Firebase
 
 <br/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
 <br/>
+
+<hr>
 
 #### Demo 
 
@@ -26,9 +28,9 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 
 #### Run Locally
 
--Clone the project
+- Clone the project
 
--Install dependencies
+- Install dependencies
 
 ```
   npm install
@@ -53,7 +55,7 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
   GENERATE_SOURCEMAP=false
 ```
 
--Start the server
+- Start the server
 
 ```
   npm run start
