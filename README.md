@@ -1,4 +1,4 @@
-#### Netflix Clone
+###### My Netflix Clone
 
 Netflix clone with Netflix like UI and functionalities built using React.js and Firebase
 
@@ -6,11 +6,11 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
 <br/>
 
-#### Demo
+#### Demo 
 
-[LIVE](https://my-netflix-clone-3ll6.vercel.app/)
+[LIVE ](https://my-netflix-clone-3ll6.vercel.app/)
 
-#### Screenshots
+#### Screenshot
 
 ![site image](https://i.imgur.com/xaZ8L6P.jpg)
 
@@ -26,19 +26,19 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 
 #### Run Locally
 
-Clone the project
+-Clone the project
 
-Install dependencies
+-Install dependencies
 
 ```
   npm install
 ```
 
-Create a **.env** file inside project directory with fields given below.
+-Create a **.env** file inside project directory with fields given below.
 
 ```
   # TMDB API
-  REACT_APP_API_KEY=  # Create account in TMDB API and add TMDB API KEY here
+  REACT_APP_API_KEY=  
 
   #FIREBASE
   REACT_APP_FIREBASE_API_KEY=
@@ -53,7 +53,7 @@ Create a **.env** file inside project directory with fields given below.
   GENERATE_SOURCEMAP=false
 ```
 
-Start the server
+-Start the server
 
 ```
   npm run start
