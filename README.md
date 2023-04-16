@@ -2,8 +2,6 @@
 
 <hr>
 
-## My Netflix Clone
-
 This is my version of the famous video on demand platform. Written in Javascript and uses React as a framework. This app utilises Firebase to authorise users serverside, additionally users can login to the app through their registered Google account. The TMDb api was used to gather movies/series data (most popular, top rated, new series, etc).
 
 View a live version of the app using the link below: [LIVE ](https://my-netflix-clone-3ll6.vercel.app/)
