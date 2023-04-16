@@ -1,21 +1,14 @@
+<img style="margin-left: 50%" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
+
+<hr>
+
 ## My Netflix Clone
-<hr>
 
-Netflix clone with Netflix like UI and functionalities built using React.js and Firebase
+This is my version of the famous video on demand platform. Written in Javascript and uses React as a framework. This app utilises Firebase to authorise users serverside, additionally users can login to the app through their registered Google account. The TMDb api was used to gather movies/series data (most popular, top rated, new series, etc).
 
-<br/>
-<img style="text-align: center; margin: 0 auto" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
-<br/>
+View a live version of the app using the link below: [LIVE ](https://my-netflix-clone-3ll6.vercel.app/)
 
 <hr>
-
-### Demo 
-
-[LIVE ](https://my-netflix-clone-3ll6.vercel.app/)
-
-<hr>
-
-### Screenshot
 
 ![site image](https://i.imgur.com/xaZ8L6P.jpg)
 
@@ -27,7 +20,6 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 - Fully responsive and mobile friendly
 - State management using Context API
 - User authentication + sign in with Google
-- UI almost similar to Netflix
 - User can view movie/series info and trailer if available
 - User can search for movies/series
 
