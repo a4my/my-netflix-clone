@@ -1,22 +1,26 @@
-### My Netflix Clone
+## My Netflix Clone
 
 Netflix clone with Netflix like UI and functionalities built using React.js and Firebase
 
 <br/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
+<img style="align: center; margin: 0 auto" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="100" alt="" />
 <br/>
 
 <hr>
 
-#### Demo 
+### Demo 
 
 [LIVE ](https://my-netflix-clone-3ll6.vercel.app/)
 
-#### Screenshot
+<hr>
+
+### Screenshot
 
 ![site image](https://i.imgur.com/xaZ8L6P.jpg)
 
-#### Features
+<hr>
+
+### Features
 
 - Progressive Web App (PWA)
 - Fully responsive and mobile friendly
@@ -26,7 +30,9 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 - User can view movie/series info and trailer if available
 - User can search for movies/series
 
-#### Run Locally
+<hr>
+
+### Run Locally
 
 - Clone the project
 
@@ -36,7 +42,7 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
   npm install
 ```
 
--Create a **.env** file inside project directory with fields given below.
+- Create a **.env** file inside project directory with fields given below.
 
 ```
   # TMDB API
