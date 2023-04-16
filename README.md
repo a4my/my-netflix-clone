@@ -12,7 +12,7 @@ Netflix clone with Netflix like UI and functionalities built using React.js and 
 
 #### Screenshots
 
-![App Screenshot](https://imgur.com/xaZ8L6P)
+![App Screenshot]([https://imgur.com/xaZ8L6P](https://i.imgur.com/xaZ8L6P.jpg))
 
 #### Features
 
